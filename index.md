@@ -7,7 +7,5 @@
 </head>
 <body>
     <h1>Hello, World!</h1>
-    <p>testing</p>
-  <div ub-in-page="6ab6770875634f67eb1bea79"></div>
 </body>
 </html>
